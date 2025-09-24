@@ -21,7 +21,7 @@ That's it — no installation or setup required!
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 📃 License
 
